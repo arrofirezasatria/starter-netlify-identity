@@ -6,6 +6,8 @@
     "watch": "maizzle serve"
   },
   "dependencies": {
-    "@maizzle/framework": "^3.7.3"
+    "@maizzle/cli": "^1.5.1",
+    "@maizzle/framework": "^3.7.3",
+    "update": "^0.7.4"
   }
 }
